@@ -23,7 +23,8 @@ Explique o que é o seu projeto, qual problema ele resolve e por que ele é úti
 
 ## Instalação
 
-Instruções para instalar e configurar o projeto localmente:
+Instruções para instalar e configurar o projeto localmente: npm install  # ou outra ferramenta que você esteja usando
+
 
 1. Clone o repositório:
    ```bash
